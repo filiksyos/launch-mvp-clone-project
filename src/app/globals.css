@@ -3,6 +3,8 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 84% 4.9%;
 }
 
 @theme inline {
@@ -16,6 +18,8 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
   }
 }
 
